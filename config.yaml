@@ -1,0 +1,3 @@
+settings:
+  interval: 10
+  retries: 3
